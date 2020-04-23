@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Festival 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://croatia.hr/sites/default/files/styles/image_full_width/public/2019-04/EDMkevin_1577_kevin_verkruijsen_mpg_live_1600x900_0.jpg?itok=NHNq-Ahg",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing find me elit. Quisque et ipsum in massa pharetra interdum ac eget ante. Fusce tincidunt ipsum id tortor mollis bibendum. Fusce ac dolor non nisi suscipit fringilla. Cras semper odio diam, at mollis est venenatis et. Donec pharetra ante eu augue mollis, vel laoreet justo vulputate. Maecenas in mauris vel ante imperdiet laoreet. Pellentesque rutrum rutrum mattis.",
+    "price": 0,
+    "categories": ["festival"]
+  },
+  {
+    "id": 2,
+    "title": "Concert 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://lh3.googleusercontent.com/proxy/ZKFE1BLfBHSMPHfUkY0UZkyTrtNvTFqCFVvjpqPwK0Ar4zC-uo_j98vohjZAGFDl7PNMOyho4TOBuQmrJ3t7FiY868UpGzql4n6eaJDfKgd2VQ8Bf8CPcU9O2cdTCSoVJvFNJEt-pD_7JAJNRbtHEaSogoVm70l7jF0L8D7Qqxqz",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et ipsum in massa pharetra interdum ac eget ante. Fusce tincidunt ipsum id tortor mollis bibendum. Fusce ac dolor non nisi suscipit fringilla. Cras semper odio diam, at mollis est venenatis et. Donec pharetra ante eu augue mollis, vel laoreet justo vulputate. Maecenas in mauris vel ante imperdiet laoreet. Pellentesque rutrum rutrum mattis.",
+    "price": 200,
+    "categories": ["concert"]
+  },
+  {
+    "id": 3,
+    "title": "Festival 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://croatia.hr/sites/default/files/styles/image_full_width/public/2019-04/EDMkevin_1577_kevin_verkruijsen_mpg_live_1600x900_0.jpg?itok=NHNq-Ahg",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et ipsum in massa pharetra interdum ac eget ante. Fusce tincidunt ipsum id tortor mollis bibendum. Fusce ac dolor non nisi suscipit fringilla. Cras semper odio diam, at mollis est venenatis et. Donec pharetra ante eu augue mollis, vel laoreet justo vulputate. Maecenas in mauris vel ante imperdiet laoreet. Pellentesque rutrum rutrum mattis.",
+    "price": 800,
+    "categories": ["festival"]
+  },
+  {
+    "id": 4,
+    "title": "Festival 3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://croatia.hr/sites/default/files/styles/image_full_width/public/2019-04/EDMkevin_1577_kevin_verkruijsen_mpg_live_1600x900_0.jpg?itok=NHNq-Ahg",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing test 2 elit. Quisque et ipsum in massa pharetra interdum ac eget ante. Fusce tincidunt ipsum id tortor mollis bibendum. Fusce ac dolor non nisi suscipit fringilla. Cras semper odio diam, at mollis est venenatis et. Donec pharetra ante eu augue mollis, vel laoreet justo vulputate. Maecenas in mauris vel ante imperdiet laoreet. Pellentesque rutrum rutrum mattis.",
+    "price": 400,
+    "categories": ["festival"]
+  },
+  {
+    "id": 5,
+    "title": "Concert 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://lh3.googleusercontent.com/proxy/ZKFE1BLfBHSMPHfUkY0UZkyTrtNvTFqCFVvjpqPwK0Ar4zC-uo_j98vohjZAGFDl7PNMOyho4TOBuQmrJ3t7FiY868UpGzql4n6eaJDfKgd2VQ8Bf8CPcU9O2cdTCSoVJvFNJEt-pD_7JAJNRbtHEaSogoVm70l7jF0L8D7Qqxqz",
+    "body": "Lorem ipsum dolor sit amet, consectetur hello world adipiscing elit. Quisque et ipsum in massa pharetra interdum ac eget ante. Fusce tincidunt ipsum id tortor mollis bibendum. Fusce ac dolor non nisi suscipit fringilla. Cras semper odio diam, at mollis est venenatis et. Donec pharetra ante eu augue mollis, vel laoreet justo vulputate. Maecenas in mauris vel ante imperdiet laoreet. Pellentesque rutrum rutrum mattis.",
+    "price": 1200,
+    "categories": ["concert"]
+  },
+  {
+    "id": 6,
+    "title": "Concert 3",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://lh3.googleusercontent.com/proxy/ZKFE1BLfBHSMPHfUkY0UZkyTrtNvTFqCFVvjpqPwK0Ar4zC-uo_j98vohjZAGFDl7PNMOyho4TOBuQmrJ3t7FiY868UpGzql4n6eaJDfKgd2VQ8Bf8CPcU9O2cdTCSoVJvFNJEt-pD_7JAJNRbtHEaSogoVm70l7jF0L8D7Qqxqz",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et ipsum in massa pharetra interdum ac eget ante. Fusce tincidunt ipsum id tortor mollis bibendum. Fusce ac dolor non nisi suscipit fringilla. Cras semper odio diam, at mollis est venenatis et. Donec pharetra ante eu augue mollis, vel laoreet justo vulputate. Maecenas in mauris vel ante imperdiet laoreet. Pellentesque rutrum rutrum mattis.",
+    "price": 2000,
+    "categories": ["concert"]
+  },
+  {
+    "id": 7,
+    "title": "Movie 1",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://kaluga24.tv/wp-content/uploads/2020/03/b78f6957f1250075be89.jpg",
+    "body": "Lorem ipsum dolor sit amet, search me consectetur adipiscing elit. Quisque et ipsum in massa pharetra interdum ac eget ante. Fusce tincidunt ipsum id tortor mollis bibendum. Fusce ac dolor non nisi suscipit fringilla. Cras semper odio diam, at mollis est venenatis et. Donec pharetra ante eu augue mollis, vel laoreet justo vulputate. Maecenas in mauris vel ante imperdiet laoreet. Pellentesque rutrum rutrum mattis.",
+    "price": 0,
+    "categories": ["movie"]
+  },
+  {
+    "id": 8,
+    "title": "Movie 2",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "image": "https://kaluga24.tv/wp-content/uploads/2020/03/b78f6957f1250075be89.jpg",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et ipsum in massa pharetra interdum ac eget ante. Fusce tincidunt ipsum id tortor mollis bibendum. Fusce ac dolor non nisi suscipit fringilla. Cras semper odio diam, at mollis est venenatis et. Donec pharetra ante eu augue mollis, vel laoreet justo vulputate. Maecenas in mauris vel ante imperdiet laoreet. Pellentesque rutrum rutrum mattis.",
+    "price": 400,
+    "categories": ["movie"]
+  }
+]
